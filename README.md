@@ -20,4 +20,4 @@ The modbus functionality will be for data collection and command.
 - [ ] Boilerplate for registers
 - [ ] Enforce Read/Write rules
 - [ ] Example Programs
-
+- [ ] MQTT data response system
